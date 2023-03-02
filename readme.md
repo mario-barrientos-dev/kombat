@@ -60,7 +60,7 @@ Cada personaje tiene 6 Puntos de energía.
 - `uvicorn==0.20.0`
 
 ## Estructura de carpetas
-[.
+`.
 ├── api
 │   ├── routers
 │   │   └── kombat_route.py
@@ -75,4 +75,4 @@ Cada personaje tiene 6 Puntos de energía.
 ├── main.py
 ├── Dockerfile
 ├── requirements.txt
-└── .dockerignore]
+└── .dockerignore`
