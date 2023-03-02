@@ -1,0 +1,17 @@
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+
+# Configuration files
+*.yml
+*.yaml
+
+# Build artifacts
+*.pyc
+*.egg-info
+*.egg
+*.log
+*.swp
