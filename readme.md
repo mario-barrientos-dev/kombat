@@ -42,9 +42,9 @@ Cada personaje tiene 6 Puntos de energía.
 ## Instalación Local
 
 1. Clona el repositorio.
-    `git clone https://github.com/TuUsuario/TuRepositorio.git`
+    `https://github.com/mario-barrientos-dev/talana-kombat.git`
 2. Entra a la carpeta.
-    `cd TuRepositorio`
+    `cd talana-kombat`
 3. Instala las dependencias.
     `pip install -r requirements.txt`
 4. Ejecuta la aplicación.
