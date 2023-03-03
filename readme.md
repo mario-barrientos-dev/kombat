@@ -1,9 +1,5 @@
 # Talana Kombat
 
-## Descripción
-
-Este modelo de lenguaje se llama ChatGPT.
-
 ## Funcionalidades
 
 ### Bienvenidos a la arena!
