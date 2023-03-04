@@ -70,9 +70,9 @@ Con estos pasos, podrás ejecutar este Dockerfile y ver la aplicación funcionar
 ## Instalación Local
 
 1. Clona el repositorio.
-    `git clone https://github.com/TuUsuario/TuRepositorio.git`
+    `https://github.com/mario-barrientos-dev/talana-kombat.git`
 2. Entra a la carpeta.
-    `cd TuRepositorio`
+    `cd talana-kombat`
 3. Instala las dependencias.
     `pip install -r requirements.txt`
 4. Ejecuta la aplicación.
@@ -88,7 +88,7 @@ Con estos pasos, podrás ejecutar este Dockerfile y ver la aplicación funcionar
 - `uvicorn==0.20.0`
 
 ## Estructura de carpetas
-[.
+`.
 ├── api
 │   ├── routers
 │   │   └── kombat_route.py
@@ -103,4 +103,4 @@ Con estos pasos, podrás ejecutar este Dockerfile y ver la aplicación funcionar
 ├── main.py
 ├── Dockerfile
 ├── requirements.txt
-└── .dockerignore]
+└── .dockerignore`
