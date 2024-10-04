@@ -1,4 +1,4 @@
-# Talana Kombat
+# Kombat
 
 ## Funcionalidades
 
